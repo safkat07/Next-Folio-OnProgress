@@ -55,10 +55,10 @@ const Data = () => {
           </svg>
         </h1>
         <h3 className="home__subtitle">
-            MERN-Stack Developer
+            MERN-STACK Developer
         </h3>
         <p className="home__description">
-            I'm a a Mern-Stack Developer based in Dhaka, Bangladesh and I'm very passionate and dedicated to my work. 
+            I'm a Mern-Stack Developer based in Dhaka, Bangladesh and I'm very passionate and dedicated to my work. 
         </p>
 
         <a href="#contact" className="button button--flex">
